@@ -13,9 +13,8 @@ nav a{
 	text-decoration: none;
 	margin-right: 10px;
 	margin-left: 142px;
-	border: 2px solid yellow;
+	
 	padding: 4px;
-	border-radius: 7px;
 	color: blue;
 }
 .navigatie{
@@ -35,3 +34,18 @@ h1{
 	color: blue;
 	border-bottom: 2px solid yellow;
 }
+
+form{
+
+	background-color: yellow;
+	border: 10px solid yellow
+	width: 500px;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 15px;
+}
+.form-group{
+	text-align: center;	
+	color: blue;
+}
+
