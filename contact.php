@@ -27,6 +27,7 @@
 						<option value="1">Achtbaan</option>
 						<option value="2">Karretjes</option>
 						<option value="3">Metaal</option>
+						<option value="4">Anders</option>
 					</select>
 				</div>
 				<div class="form-group">
