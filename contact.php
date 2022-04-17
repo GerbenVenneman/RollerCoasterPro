@@ -16,4 +16,7 @@
 		<form action=""></form>
 	</main>
 </body>
+<?php
+require_once "footer.php";
+?>
 </html>
