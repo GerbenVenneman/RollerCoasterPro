@@ -10,7 +10,10 @@
 		<?php
 		require_once "header.php";
 		?>
-		<h1>Metaal</h1>
+		<div class="h1">
+			<h1>Metaal</h1>
+		</div>
+		<h3>Dit is de nieuwe metaal soort</h3>
 	</header>
 </body>
 </html>

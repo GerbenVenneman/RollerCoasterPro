@@ -24,17 +24,29 @@ nav a{
 }
 .ruimteGeven{
 	margin-left: 40px;
+	color: blue;
+	border-bottom: 2px solid yellow;
 }
 .logo{
 	width: 100px;
 
 }
 
-h1{
+h3{
 	color: blue;
-	border-bottom: 2px solid yellow;
+	
 }
-
+.homePlaatjes img{
+	width: 450px;
+	margin-right: 20px;
+}
+.h1{
+	border-bottom: 2px solid yellow;
+	color: blue;
+}
+p{
+	color: yellow;
+}
 form{
 
 	background-color: yellow;

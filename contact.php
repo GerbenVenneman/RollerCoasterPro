@@ -11,7 +11,11 @@
 		<?php
 		require_once "header.php";
 		?>
-		<h1>Contact</h1>
+		<div class="h1">
+			<h1>Contact</h1>
+		</div>
+		<h3>Dit is het contactformulier</h3>
+		<p>U kunt hier een vraag of opmerking achterlaten</p>
 	</header>
 	<main>
 		<form action="backend/contactController.php">
