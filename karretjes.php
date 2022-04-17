@@ -11,6 +11,10 @@
 		<?php
 		require_once "header.php";
 		?>
+		<div class="h1">
+			<h1>Karretjes</h1>
+		</div>
+		<h3>Dit zijn de karretjes</h3>
 	</header>
 </body>
 <?php
