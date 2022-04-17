@@ -1,6 +1,7 @@
 body{
 	width: 968px;
 	margin: 0 auto;
+	overflow-x: hidden;
 }
 .nav{
 	display: flex;
@@ -35,3 +36,89 @@ h1{
 	color: blue;
 	border-bottom: 2px solid yellow;
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #F0FFF0;
+    height: auto;
+    width: 100%;
+    padding-top: 40px;
+    color: #000;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-content h3 {
+    font-size: 2.1rem;
+    font-weight: 500;
+}
+
+.footer-content h4 {
+    font-weight: 500;
+}
+
+.footer-content p {
+    max-width: 500px;
+    margin: 10px auto;
+    font-size: 14px;
+    color: #000;
+}
+
+.socials {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0 3rem 0;
+	padding-left: 0;
+}
+
+.socials li {
+    margin: 0 10px;
+}
+
+.socials a {
+    text-decoration: none;
+    color: #000;
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.socials a i {
+    font-size: 1.1rem;
+    width: 20px;
+    transition: color .4s ease;
+}
+
+.socials a:hover i {
+    color: yellow;
+}
+
+.footer-bottom {
+    background: #111;
+	width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-bottom p {
+	font-size: 14px;
+	word-spacing: 2px;
+	text-transform: capitalize;
+	color: #fff;
+ }
+ .footer-bottom p a {
+   color:blue;
+   font-size: 16px;
+   text-decoration: none;
+ }
