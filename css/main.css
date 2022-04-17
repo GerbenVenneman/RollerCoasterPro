@@ -1,8 +1,12 @@
 body{
-	width: 968px;
-	margin: 0 auto;
 	overflow-x: hidden;
 }
+
+.wrapper {
+	width: 968px;
+	margin: 0 auto;
+}
+
 .nav{
 	display: flex;
 	justify-content: flex-start;
@@ -46,10 +50,7 @@ h3{
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
+	margin-top: 5rem;
     background: #F0FFF0;
     height: auto;
     width: 100%;
