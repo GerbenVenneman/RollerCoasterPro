@@ -19,6 +19,7 @@
 			<a href="karretjes.php">Karretjes-pagina</a>
 			<a href="metaal.php">Metaal-pagina</a>
 			<a href="contact.php">Contact</a>
+			<a href="#">Bedrijf site</a>
 		</nav>
 	</div>
 </body>
